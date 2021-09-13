@@ -228,7 +228,7 @@ for i in range(0, 5):
 print("")
 print("이번 주에 대한 회원이력검사가 끝났습니다.")
 print("10초 후 브라우저가 자동으로 닫힙니다.")
-print("이번 주도 고생하셨습니다! 사랑해요 이현수 자기")
+print("이번 주도 고생하셨습니다! 사랑해요")
 time.sleep(9)
 driver.close()
 
